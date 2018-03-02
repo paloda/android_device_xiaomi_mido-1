@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "TeamHavok/Omniverse_mido",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "oreo-mr1"
+  },
+  {
+    "repository":  "IamJoker03/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "mr1"
+  }
+]
