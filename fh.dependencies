@@ -1,8 +1,13 @@
-[
+[ 
   {
-    "repository":  "TeamHavok/Omniverse_mido",
+    "repository":  "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "repository":  "Adesh15/android_kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch":      "oreo-mr1"
+    "branch":      "oreo"
   },
   {
     "repository":  "IamJoker03/proprietary_vendor_xiaomi",
