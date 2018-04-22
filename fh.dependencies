@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "franciscofranco/mido",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "oreo-treble"
+  },
+  {
+    "repository":  "IamJoker03/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "oreo-mr1"
+  }
+]
