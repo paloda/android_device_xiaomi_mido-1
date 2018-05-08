@@ -236,5 +236,8 @@ WIFI_DRIVER_FW_PATH_AP := "ap"
 WIFI_DRIVER_FW_PATH_STA := "sta"
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
+# Bluetooth Variant
+TARGET_QCOM_BLUETOOTH_VARIANT := caf-msm8996
+
 # Inherit from the proprietary version
 -include vendor/xiaomi/mido/BoardConfigVendor.mk
